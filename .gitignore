@@ -3,3 +3,5 @@
 /W2/*.db
 /W2/mlartifacts
 /W2/mlruns
+/mlruns
+/.venv
