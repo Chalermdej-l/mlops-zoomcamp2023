@@ -1,7 +1,10 @@
 *.txt
-/W2/data
-/W2/*.db
-/W2/mlartifacts
-/W2/mlruns
+/*/*.db
+/*/mlartifacts
+/*/mlruns
 /mlruns
 /.venv
+/*/artifacts
+/*/data
+/*/output
+/*/wandb
