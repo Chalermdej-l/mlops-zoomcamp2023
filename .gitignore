@@ -9,3 +9,4 @@
 /*/output
 /*/wandb
 /W3/*.yaml
+/*/*.parquet
