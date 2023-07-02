@@ -10,3 +10,5 @@
 /*/wandb
 /W3/*.yaml
 /*/*.parquet
+/Project
+/*/data
